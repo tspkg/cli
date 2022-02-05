@@ -1,0 +1,35 @@
+{
+  "name": "tpm",
+  "version": "1.0.0",
+  "description": "The package manager for TypeScript",
+  "main": "src/web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tspkg/cli.git"
+  },
+  "keywords": [
+    "cli",
+    "typescript",
+    "ts",
+    "node",
+    "npm",
+    "yarn",
+    "nodejs",
+    "node.js",
+    "tspkg",
+    "tpm"
+  ],
+  "author": "tspkg",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tspkg/cli/issues"
+  },
+  "homepage": "https://github.com/tspkg/cli#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "commander": "^9.0.0"
+  }
+}
